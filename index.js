@@ -1,7 +1,7 @@
 let add = document.querySelector("#add");
 let subract = document.querySelector("#subtract");
 
-console.log(add, subract);
+console.log(add, subract); 
 
 add.addEventListener("click", function () {
   let output = document.querySelector("#output");
